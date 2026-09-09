@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-08",
+  "servers": [
+    {
+      "id": "jp-free-01",
+      "name": "Japan Free 01",
+      "country": "🇯🇵",
+      "protocol": "vless",
+      "tier": "free",
+      "uri": "vless://96c86a3e-48a6-4b8c-ab37-18b0e8c85773@jp.example.com:443?encryption=none&security=tls&type=tcp#Japan-Free-01"
+    },
+    {
+      "id": "sg-premium-01",
+      "name": "Singapore Premium 01",
+      "country": "🇸🇬",
+      "protocol": "vless",
+      "tier": "premium",
+      "uri": "vless://premium-id-uuid-here@sg.example.com:443?encryption=none&security=tls&type=tcp#Singapore-Premium-01"
+    }
+  ]
+}

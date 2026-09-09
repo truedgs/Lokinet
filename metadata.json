@@ -1,0 +1,6 @@
+{
+  "name": "Loki VPN",
+  "description": "A production-ready Android VPN application that supports V2Ray/Xray-based VPN configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
